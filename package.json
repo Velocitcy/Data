@@ -1,0 +1,13 @@
+{
+  "name": "data",
+  "description": "repository for data storing",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Velocitcy/Data#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Velocitcy/Data.git"
+  },
+  "license": "GPL-3.0-or-later",
+  "author": "Velocitcy",
+  "packageManager": "pnpm@10.20.0"
+}
